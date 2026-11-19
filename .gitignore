@@ -1,0 +1,8 @@
+# NEVER commit these - they give access to your mailbox / contain your personal data
+credentials.json
+token.json
+state.json
+job_applications.xlsx
+__pycache__/
+*.pyc
+.venv/
